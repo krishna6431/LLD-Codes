@@ -1,1 +1,1 @@
-interfaces should be such, that client should implement unnecessary functions they do not need
+interfaces should be such, that client should not implement unnecessary functions they do not need
